@@ -1,0 +1,21 @@
+  
+/*Remeber: # is for ids; . for clases and the rest for generic section like bodies or h3*/
+
+
+.navbar-custom { 
+    background-color: lightskyblue; 
+} 
+/* Modify brand and text color */ 
+  
+.navbar-custom .navbar-brand, 
+.navbar-custom .navbar-text { 
+    color: darkblue; 
+}
+
+
+/*
+Remove hover
+a:hover {
+    display: none;
+}
+*/
