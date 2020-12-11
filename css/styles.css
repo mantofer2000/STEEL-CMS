@@ -2,20 +2,14 @@
 /*Remeber: # is for ids; . for clases and the rest for generic section like bodies or h3*/
 
 
+/*nav-bar css */
 .navbar-custom { 
     background-color: lightskyblue; 
-} 
-/* Modify brand and text color */ 
-  
-.navbar-custom .navbar-brand, 
-.navbar-custom .navbar-text { 
-    color: darkblue; 
+}
+
+.navbar_image {
+    width: 10%;
+    height: auto;
 }
 
 
-/*
-Remove hover
-a:hover {
-    display: none;
-}
-*/
