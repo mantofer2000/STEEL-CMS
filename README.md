@@ -1,11 +1,11 @@
-# STEEL-CMS
+# <u>STEEL-CMS</u>
 * Web Page for STEEL-CMS
 * Author: [Marco Ferraro Rodriguez](https://github.com/mantofer2000)
 
-## Look and Feel:
-### Wireframe Reference
+## <u>Look and Feel:</u>
+### <u>Wireframe Reference:</u>
 * [Edica](https://edica.co.cr)
-### Color Palette
+### <u>Color Palette:</u>
 #### Main Color Palette
 * [Base](https://colorhunt.co/palette/196240) 
 * [Inverted](https://colorhunt.co/palette/196113)
