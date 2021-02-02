@@ -10,7 +10,3 @@
 #### Main Color Palette
 * [Base](https://colorhunt.co/palette/196240) 
 * [Inverted](https://colorhunt.co/palette/196113)
-
-#### Secondary Color Palette
-* [Base](https://colorhunt.co/palette/225739)
-* [Inverted](https://colorhunt.co/palette/219763)
