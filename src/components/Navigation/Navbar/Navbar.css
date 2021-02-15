@@ -1,0 +1,14 @@
+.NavBar {
+  background: blue;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.2rem;
+}
+
+.NavBarTitle {
+  color: azure;
+  margin-left: 40px;
+}
+
