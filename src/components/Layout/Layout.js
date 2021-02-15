@@ -1,9 +1,10 @@
 import React from 'react';
 import Auxiliary from '../../hoc/Auxiliary';
+import Navbar from '../Navigation/Navbar/Navbar';
 
 const layout = (props) => (
     <Auxiliary>
-        <p>Navbar</p>
+        <Navbar></Navbar>
         <p>Side Drawer</p>
         <main>
             {props.children}
