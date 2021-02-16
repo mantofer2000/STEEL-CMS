@@ -6,11 +6,10 @@ class Body extends Component {
   render () {
     return (
       <Auxiliary>
-        <ImageSlider></ImageSlider>
-        <p>Carrousel 1</p>
-        <p> Body 1</p>
-        <p>Carrousel 2</p>
-        <p>Body 2</p>
+        <ImageSlider />
+        <p> Cards 1</p>
+        <ImageSlider />
+        <p>Card 2</p>
         <p>Schedule</p>
         <p>Contact Me</p>
       </Auxiliary>
